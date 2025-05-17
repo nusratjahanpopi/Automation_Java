@@ -2,11 +2,11 @@ package Assignment_03;
 
 public class Student {
     // Variables Fields
-    String name ="Nusrat jahan";
+    String name = "Nusrat jahan";
 
     // Method
-    public void programing(){
-        System.out.println( name + " is Programing Java.");
+    public void programing() {
+        System.out.println(name + " is Programing Java.");
     }
 
     //main method
@@ -20,7 +20,6 @@ public class Student {
 
         // Call Method
         student.programing();
-
 
 
     }

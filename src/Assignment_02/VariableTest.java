@@ -9,12 +9,14 @@ public class VariableTest {
         variableTest.printSomeThings();
         variableTest.prinSomeThings();
     }
+
     public void printSomeThings() {
         double amount = 200.50;
         System.out.println("Amount1: " + amount);
         System.out.println("age: " + age);
         System.out.println("Name: " + name);
     }
+
     public void prinSomeThings() {
         double amount = 100.50;
         System.out.println("Amount2: " + amount);

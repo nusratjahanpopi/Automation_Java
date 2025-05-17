@@ -20,7 +20,6 @@ public class DataTypeExample {
         System.out.println("boolean : " + isSomething);
 
 
-
         // Non-primitive data types
 
         Long num5 = 100000000l;
@@ -35,5 +34,5 @@ public class DataTypeExample {
         System.out.println("Float : " + num7);
         System.out.println("String : " + name2);
         System.out.println("Boolean : " + isSomething2);
-}
     }
+}
